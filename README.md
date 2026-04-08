@@ -65,12 +65,11 @@ The Power BI report includes various interactive visualizations, such as:
 
 ## How to Use/Explore
 
-To explore the full interactive report, please refer to the original Power BI file (not included in this repository). This README provides a summary of the key findings.
+To explore the full interactive report, please refer to the original Power BI file. This README provides a summary of the key findings.
 
 ## Conclusion
 
 This analysis provides a data-driven overview of road accident trends in the UK, highlighting critical areas for intervention to enhance road safety. Further detailed exploration of the Power BI dashboard can offer deeper insights into specific accident characteristics and their implications.
-
 
 
 **Note**: This analysis serves as a foundation for understanding road risk factors and can be used by policymakers to implement targeted safety interventions.
